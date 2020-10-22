@@ -8,15 +8,15 @@
 - 💬 Ask me about physics, machine learning and python.
 
 
-<h2><img src="images/kaggle.svg"length="20%" width="20%"></h2>
+<h2><img src="images/kaggle.svg"length="18%" width="18%"></h2>
 
-* #### [Digit Recognizer with Le-Net 5 Architecture](https://www.kaggle.com/juniorcl/lenet-5-cnn-architecture-digit-recognizer)
+* [Digit Recognizer with Le-Net 5 Architecture](https://www.kaggle.com/juniorcl/lenet-5-cnn-architecture-digit-recognizer)
 
-* #### [Digit Recognizer Competition with CNN](https://www.kaggle.com/juniorcl/cnn-digit-recognizer-0-99178-score)
+* [Digit Recognizer Competition with CNN](https://www.kaggle.com/juniorcl/cnn-digit-recognizer-0-99178-score)
 
-* #### [Diabetes Prediction with Tuned Gradient Boosting Model](https://www.kaggle.com/juniorcl/diabetesclassification-tunedgradientboosting-90)
+* [Diabetes Prediction with Tuned Gradient Boosting Model](https://www.kaggle.com/juniorcl/diabetesclassification-tunedgradientboosting-90)
 
-* #### [ENEM Math Score](https://www.kaggle.com/juniorcl/mathenemscores-linearregression-accuracy-90)
+* [ENEM Math Score](https://www.kaggle.com/juniorcl/mathenemscores-linearregression-accuracy-90)
 
 
 <h2>You can meet</h2>
