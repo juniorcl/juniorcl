@@ -17,13 +17,13 @@
 
 <h2>Kaggle</h2>
 
-* [Digit Recognizer with Le-Net 5 Architecture](https://www.kaggle.com/juniorcl/lenet-5-cnn-architecture-digit-recognizer)
+- [Digit Recognizer with Le-Net 5 Architecture](https://www.kaggle.com/juniorcl/lenet-5-cnn-architecture-digit-recognizer)
 
-* [Digit Recognizer Competition with CNN](https://www.kaggle.com/juniorcl/cnn-digit-recognizer-0-99178-score)
+- [Digit Recognizer Competition with CNN](https://www.kaggle.com/juniorcl/cnn-digit-recognizer-0-99178-score)
 
-* [Diabetes Prediction with Tuned Gradient Boosting Model](https://www.kaggle.com/juniorcl/diabetesclassification-tunedgradientboosting-90)
+- [Diabetes Prediction with Tuned Gradient Boosting Model](https://www.kaggle.com/juniorcl/diabetesclassification-tunedgradientboosting-90)
 
-* [ENEM Math Score](https://www.kaggle.com/juniorcl/mathenemscores-linearregression-accuracy-90)
+- [ENEM Math Score](https://www.kaggle.com/juniorcl/mathenemscores-linearregression-accuracy-90)
 
 <br>
 
@@ -35,11 +35,8 @@
 </div>
 
 <div style="display: flex;justify-content: space-around;" align="center">
-
-![Clebio's github stats](https://github-readme-stats.vercel.app/api?username=juniorcl&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
-
-![Clebio's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorcl&layout=compact&hide_border=true&title_color=000)
-
+	<img src="https://github-readme-stats.vercel.app/api?username=juniorcl&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" alt="github stats">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorcl&layout=compact&hide_border=true&title_color=000" alt="clebio languages">
 </div>
 
 
