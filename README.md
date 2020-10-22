@@ -2,6 +2,14 @@
 
 <h3 align="center">Physics Teacher and Data Scientist</h3>
 
+<p align="center">
+    <a target="_blank" href="https://www.dev.to/juniorcl"><img src="images/dev-black.svg" alt="dev" width="4%" lenght="4%"></a>&nbsp;&nbsp;
+    <a target="_blank" href="https://www.twitter.com/clebioojunior"><img src="images/twitter-black.svg" alt="dev" width="4%" lenght="4%"></a>&nbsp;&nbsp;
+    <a target="_blank" href="https://www.linkedin.com/in/clebiojunior"><img src="images/linkedin-black.svg" alt="dev" width="4%" lenght="4%"></a>&nbsp;&nbsp;
+    <a target="_blank" href="https://www.gitlab.com/juniorcl"><img src="images/gitlab-black.svg" alt="dev" width="4%" lenght="4%"></a>&nbsp;&nbsp;
+    <a target="_blank" href="https://www.kaggle.com/juniorcl"><img src="images/kaggle-k-black.svg" alt="dev" width="4%" lenght="4%"></a>
+</p>
+
 - 🔭 I’m currently working on education and data science projects
 - 🌱 I’m currently learning on python tools and data science. 
 - 👯 I’m looking to collaborate on data science projects
@@ -18,28 +26,14 @@
 
 * [ENEM Math Score](https://www.kaggle.com/juniorcl/mathenemscores-linearregression-accuracy-90)
 
+<br>
 
-<h2>You can meet me</h2>
-
-<p aling="left">
-    <a target="_blank" href="https://www.dev.to/juniorcl"><img src="images/dev-black.svg" alt="dev" width="5%" lenght="5%"></a>
-    <a target="_blank" href="https://www.twitter.com/clebioojunior"><img src="images/twitter-black.svg" alt="dev" width="5%" lenght="5%"></a>
-    <a target="_blank" href="https://www.linkedin.com/in/clebiojunior"><img src="images/linkedin-black.svg" alt="dev" width="5%" lenght="5%"></a>
-    <a target="_blank" href="https://www.gitlab.com/juniorcl"><img src="images/gitlab-black.svg" alt="dev" width="5%" lenght="5%"></a>
-    <a target="_blank" href="https://www.kaggle.com/juniorcl"><img src="images/kaggle-k-black.svg" alt="dev" width="5%" lenght="5%"></a>
-</p>
-
-
-<h2>Languages and Tools</h2>
-
-<p>
-    <a target="_blank" href="https://www.python.org"><img src="images/python.svg" alt="python" width="7%" lenght="7%"></a>
-    <a target="_blank" href="https://www.tensorflow.org"><img src="images/tensorflow.svg" alt="python" width="7%" lenght="7%"></a>
-    <a target="_blank" href="https://scikit-learn.org/stable/"><img src="images/scikit-learn.svg" alt="python" width="13%" lenght="13%"></a>
+<p align="center">
+    <a target="_blank" href="https://www.python.org"><img src="images/python.svg" alt="python" width="7%" lenght="7%"></a>&nbsp;&nbsp;
+    <a target="_blank" href="https://www.tensorflow.org"><img src="images/tensorflow.svg" alt="python" width="7%" lenght="7%"></a>&nbsp;&nbsp;
+    <a target="_blank" href="https://scikit-learn.org/stable/"><img src="images/scikit-learn.svg" alt="python" width="13%" lenght="13%"></a>&nbsp;&nbsp;
     <a target="_blank" href="https://www.linux.org"><img src="images/linux.ico" alt="dev" width="7%" lenght="7%"></a>
 </p>
-
-<h2>Github's stats</h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorcl&layout=compact" alt="juniorcl" /></p>
 
