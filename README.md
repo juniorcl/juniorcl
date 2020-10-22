@@ -3,11 +3,11 @@
 <h3 align="center">Physics Teacher and Data Scientist</h3>
 
 <div align="center">
-    <a href="https://www.dev.to/juniorcl" target="_blank" ><img src="images/dev-black.svg" alt="dev" width="4%" lenght="4%"></a>&nbsp;&nbsp;
-    <a href="https://www.twitter.com/clebioojunior" target="_blank"><img src="images/twitter-black.svg" alt="dev" width="4%" lenght="4%"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/clebiojunior" target="_blank"><img src="images/linkedin-black.svg" alt="dev" width="4%" lenght="4%"></a>&nbsp;&nbsp;
-    <a href="https://www.gitlab.com/juniorcl" target="_blank"><img src="images/gitlab-black.svg" alt="dev" width="4%" lenght="4%"></a>&nbsp;&nbsp;
-    <a href="https://www.kaggle.com/juniorcl" target="_blank"><img src="images/kaggle-k-black.svg" alt="dev" width="4%" lenght="4%"></a>
+    <a href="https://www.dev.to/juniorcl" target="_blank" ><img src="icons/dev-black.svg" alt="dev" width="4%" lenght="4%"></a>&nbsp;&nbsp;
+    <a href="https://www.twitter.com/clebioojunior" target="_blank"><img src="icons/twitter-black.svg" alt="dev" width="4%" lenght="4%"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/clebiojunior" target="_blank"><img src="icons/linkedin-black.svg" alt="dev" width="4%" lenght="4%"></a>&nbsp;&nbsp;
+    <a href="https://www.gitlab.com/juniorcl" target="_blank"><img src="icons/gitlab-black.svg" alt="dev" width="4%" lenght="4%"></a>&nbsp;&nbsp;
+    <a href="https://www.kaggle.com/juniorcl" target="_blank"><img src="icons/kaggle-k-black.svg" alt="dev" width="4%" lenght="4%"></a>
 </div>
 
 - 🔭 I’m currently working on education and data science projects
@@ -28,10 +28,10 @@
 <br>
 
 <div align="center">
-    <a href="https://www.python.org" target="_blank"><img src="images/python.svg" alt="python" width="6%" lenght="6%"></a>&nbsp;&nbsp;
-    <a href="https://www.tensorflow.org" target="_blank"><img src="images/tensorflow.svg" alt="python" width="6%" lenght="6%"></a>&nbsp;&nbsp;
-    <a href="https://scikit-learn.org/stable/" target="_blank"><img src="images/scikit-learn.svg" alt="python" width="10%" lenght="10%"></a>&nbsp;&nbsp;
-    <a href="https://www.linux.org" target="_blank"><img src="images/linux.ico" alt="dev" width="6%" lenght="6%"></a>
+    <a href="https://www.python.org" target="_blank"><img src="icons/python.svg" alt="python" width="6%" lenght="6%"></a>&nbsp;&nbsp;
+    <a href="https://www.tensorflow.org" target="_blank"><img src="icons/tensorflow.svg" alt="python" width="6%" lenght="6%"></a>&nbsp;&nbsp;
+    <a href="https://scikit-learn.org/stable/" target="_blank"><img src="icons/scikit-learn.svg" alt="python" width="10%" lenght="10%"></a>&nbsp;&nbsp;
+    <a href="https://www.linux.org" target="_blank"><img src="icons/linux.ico" alt="dev" width="6%" lenght="6%"></a>
 </div>
 
 <div style="display: flex;justify-content: space-around;" align="center">
@@ -41,7 +41,7 @@
 
 
 
-<!--<h2><img src="images/kaggle.svg"length="11%" width="11%"></h2>-->
+<!--<h2><img src="icons/kaggle.svg"length="11%" width="11%"></h2>-->
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juniorcl&show_icons=true" alt="juniorcl" /></p> 
 -->
