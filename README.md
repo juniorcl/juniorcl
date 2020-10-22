@@ -29,10 +29,10 @@
 <br>
 
 <p align="center">
-    <a target="_blank" href="https://www.python.org"><img src="images/python.svg" alt="python" width="7%" lenght="7%"></a>&nbsp;&nbsp;
-    <a target="_blank" href="https://www.tensorflow.org"><img src="images/tensorflow.svg" alt="python" width="7%" lenght="7%"></a>&nbsp;&nbsp;
-    <a target="_blank" href="https://scikit-learn.org/stable/"><img src="images/scikit-learn.svg" alt="python" width="13%" lenght="13%"></a>&nbsp;&nbsp;
-    <a target="_blank" href="https://www.linux.org"><img src="images/linux.ico" alt="dev" width="7%" lenght="7%"></a>
+    <a target="_blank" href="https://www.python.org"><img src="images/python.svg" alt="python" width="5%" lenght="5%"></a>&nbsp;&nbsp;
+    <a target="_blank" href="https://www.tensorflow.org"><img src="images/tensorflow.svg" alt="python" width="5%" lenght="5%"></a>&nbsp;&nbsp;
+    <a target="_blank" href="https://scikit-learn.org/stable/"><img src="images/scikit-learn.svg" alt="python" width="10%" lenght="10%"></a>&nbsp;&nbsp;
+    <a target="_blank" href="https://www.linux.org"><img src="images/linux.ico" alt="dev" width="5%" lenght="5%"></a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorcl&layout=compact" alt="juniorcl" /></p>
