@@ -29,14 +29,19 @@
 <br>
 
 <p align="center">
-    <a target="_blank" href="https://www.python.org"><img src="images/python.svg" alt="python" width="5%" lenght="5%"></a>&nbsp;&nbsp;
-    <a target="_blank" href="https://www.tensorflow.org"><img src="images/tensorflow.svg" alt="python" width="5%" lenght="5%"></a>&nbsp;&nbsp;
+    <a target="_blank" href="https://www.python.org"><img src="images/python.svg" alt="python" width="6%" lenght="6%"></a>&nbsp;&nbsp;
+    <a target="_blank" href="https://www.tensorflow.org"><img src="images/tensorflow.svg" alt="python" width="6%" lenght="6%"></a>&nbsp;&nbsp;
     <a target="_blank" href="https://scikit-learn.org/stable/"><img src="images/scikit-learn.svg" alt="python" width="10%" lenght="10%"></a>&nbsp;&nbsp;
-    <a target="_blank" href="https://www.linux.org"><img src="images/linux.ico" alt="dev" width="5%" lenght="5%"></a>
+    <a target="_blank" href="https://www.linux.org"><img src="images/linux.ico" alt="dev" width="6%" lenght="6%"></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorcl&layout=compact" alt="juniorcl" /></p>
+<p align="center">
 
+![Clebio's github stats](https://github-readme-stats.vercel.app/api?username=juniorcl&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
+
+![Clebio's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorcl&layout=compact)
+
+</p>
 
 <!-- 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juniorcl&show_icons=true" alt="juniorcl" /></p> 
