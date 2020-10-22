@@ -39,7 +39,7 @@
 
 ![Clebio's github stats](https://github-readme-stats.vercel.app/api?username=juniorcl&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 
-![Clebio's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorcl&layout=compact)
+![Clebio's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorcl&layout=compact&hide_border=true&title_color=000)
 
 </p>
 
