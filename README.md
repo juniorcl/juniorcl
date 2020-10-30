@@ -31,6 +31,7 @@
     <a href="https://www.python.org" target="_blank"><img src="icons/python.svg" alt="python" width="6%" lenght="6%"></a>&nbsp;&nbsp;
     <a href="https://www.tensorflow.org" target="_blank"><img src="icons/tensorflow.svg" alt="python" width="6%" lenght="6%"></a>&nbsp;&nbsp;
     <a href="https://scikit-learn.org/stable/" target="_blank"><img src="icons/scikit-learn.svg" alt="python" width="10%" lenght="10%"></a>&nbsp;&nbsp;
+    <a href="https://www.docker.com/" target="_blank"><img src="icons/docker.svg" atl="docker" width="7%" lenght="6%"></a>&nbsp;&nbsp;
     <a href="https://www.linux.org" target="_blank"><img src="icons/linux.ico" alt="dev" width="6%" lenght="6%"></a>
 </div>
 
