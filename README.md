@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋! I'm Clébio Oliveira Júnior</h1>
 
-<h3 align="center">Physics Teacher and Data Scientist</h3>
+<h3 align="center"><i>Physics Teacher and Data Scientist</i></h3>
 
 <div align="center">
     <a href="https://www.dev.to/juniorcl" target="_blank" ><img src="icons/dev-black.svg" alt="dev" width="4%" lenght="4%"></a>&nbsp;&nbsp;
@@ -12,20 +12,50 @@
 
 <br>
 
-- 🔭 I’m currently working on education and data science projects
-- 🌱 I’m currently learning on python tools and data science. 
-- 👯 I’m looking to collaborate on data science projects
-- 💬 Ask me about physics, machine learning and python.
+I'm physics teacher and data scientist. I have master's degress in natural science period during which I developed my research using Python for data analysis and data processing. 
 
-<h2>Kaggle</h2>
+Since then, I have studied python, data science, classic machine learning algorithms and neural networks. Therefore, I have made data science projects focused in business solutions with machine learning models.
 
-- [Digit Recognizer with Le-Net 5 Architecture](https://www.kaggle.com/juniorcl/lenet-5-cnn-architecture-digit-recognizer)
+I have already developed solutions for important business problems such as detecting fraud in transactions, classifying diseases early, identifying customers in churn and prioritizing customers for cross-selling.
 
-- [Digit Recognizer Competition with CNN](https://www.kaggle.com/juniorcl/cnn-digit-recognizer-0-99178-score)
+The details of each solution are described im data science project section.
 
-- [Diabetes Prediction with Tuned Gradient Boosting Model](https://www.kaggle.com/juniorcl/diabetesclassification-tunedgradientboosting-90)
+### Analytics Tools
 
-- [ENEM Math Score](https://www.kaggle.com/juniorcl/mathenemscores-linearregression-accuracy-90)
+* **Data Collection and Storage:** SQL and Postgres.
+
+* **Data Processing and Analytics:** Python, Jupyter and Spyder.
+
+* **Development:** Git, Linux and Docker.
+
+* **Data Visualization:** Seaborn and Matplotlib.
+
+* **Machine Learning Modeling:** Classification, Regression, Time Series, Neural Network, Convolution Neural Network and Natural Language Processing.
+
+* **Machine Learning Deployment:** Flask and Heroku.
+
+<br>
+
+## Data Science Projects
+
+* [Transaction Fraud Detection](https://github.com/juniorcl/transaction-fraud-detection)
+
+
+* [Churn Prediction](https://github.com/juniorcl/churn-prediction)
+
+* [Cardiovascular Disease Prediction](https://github.com/juniorcl/cardiovascular-disease-prediction)
+
+* [Rossman Store Sales](https://github.com/juniorcl/rossman-store-sales)
+
+## Kaggle
+
+*  [Digit Recognizer with Le-Net 5 Architecture](https://www.kaggle.com/juniorcl/lenet-5-cnn-architecture-digit-recognizer)
+
+*  [Digit Recognizer Competition with CNN](https://www.kaggle.com/juniorcl/cnn-digit-recognizer-0-99178-score)
+
+*  [Diabetes Prediction with Tuned Gradient Boosting Model](https://www.kaggle.com/juniorcl/diabetesclassification-tunedgradientboosting-90)
+
+* [ENEM Math Score](https://www.kaggle.com/juniorcl/mathenemscores-linearregression-accuracy-90)
 
 <br>
 
