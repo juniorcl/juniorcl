@@ -50,8 +50,6 @@ The details of each solution are described in data science project section.
 
 * **Machine Learning Deployment:** Flask and Heroku.
 
-<br>
-
 ## Data Science Projects
 
 * #### [Transaction Fraud Detection](https://github.com/juniorcl/transaction-fraud-detection)
