@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋! I'm Clébio Oliveira Júnior</h1>
+<h1 align="center">Hi there 👋! I'm Clébio de Oliveira Júnior</h1>
 
 <h3 align="center"><i>Physics Teacher and Data Scientist</i></h3>
 
