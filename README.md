@@ -80,11 +80,12 @@ The details of each solution are described in the data science project section.
 
     A machine learning project to predict the math score from the ENEM (Exame Nacional do Ensino Médio - National High School Exam). The model got a acuracy of 90%.
 
+<!--
 <div style="display: flex;justify-content: space-around;" align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=juniorcl&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" alt="github stats">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorcl&layout=compact&hide_border=true&title_color=000" alt="clebio languages">
 </div>
-
+-->
 <!--
 **juniorcl/juniorcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
