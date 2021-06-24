@@ -27,7 +27,7 @@ The details of each solution are described in the data science project section.
 
 ### Analytics Tools
 
-* **Data Collection and Storage:** SQL and Postgres.
+* **Data Collection and Storage:** SQL, MySQL and Postgres.
 
 * **Data Processing and Analytics:** Python, Jupyter and Spyder.
 
