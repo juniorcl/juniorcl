@@ -61,6 +61,16 @@ The details of each solution are described in the data science project section.
 
     To ideate a new strategy of investments in for each sale store may be difficult. Therefore, to help the stack holders to make decisions about individual investments for each and every store in the chain, this data science project created a machine learning model able to predict the sales up to six weeks in advance. Hence, enabling them to calculate the profit per store and the amount of money available to invest.
 
+## Blog Posts
+
+* ### [Prevendo Números: Entendendo as métricas R², MAE, MAPE, MSE e RMSE](https://medium.com/data-hackers/prevendo-n%C3%BAmeros-entendendo-m%C3%A9tricas-de-regress%C3%A3o-35545e011e70)
+
+    In the post "Predicting Numbers: Understanding R², MAE, MAPE, MSE, and RMSE Metrics", title in english, I wrote about metrics for regression models. The selected metrics were R², Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), Mean Squared Error (MSE) and Root Mean Squared Error (RMSE). During this post I explain about the calculation of metrics and how to interpret them.
+
+* ### [Indo Além da Acurácia: Entendo a Acurácia Balanceada, Precisão, Recall e F1 score](https://medium.com/data-hackers/indo-al%C3%A9m-da-acur%C3%A1cia-entendo-a-acur%C3%A1cia-balanceada-precis%C3%A3o-recall-e-f1-score-c895e55a9753)
+
+    The post "Going Beyond Accuracy: Understanding Balanced Accuracy, Precision, Recall and F1 score", title in english, I wrote about metrics to avaliate models of classification. The metrics covered were Balanced Accuracy, Precision, Recall and F1 score. During the post, I talk about how to calculate these metrics and understand them.
+
 ## Kaggle
 
 * ### [Digit Recognizer with Le-Net 5 Architecture](https://www.kaggle.com/juniorcl/lenet-5-cnn-architecture-digit-recognizer)
