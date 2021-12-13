@@ -45,7 +45,6 @@ The details of each solution are described in the data science project section.
 
     To help the sales team, this data science project was created to sort a list to improve the cross-selling. The model was able to organize that almost all interested customers (98.31% +/- 0.16%) stay on up to 50% of the list, saving half of the expenses incurred for calls. So, if each call costs R\$ 15.00 in 20,000.00 there is an expense of R\$ 300,000.00. Using the model it is possible to spend only R\$ 150,000.00.
 
-    
 * ### [Transaction Fraud Detection](https://github.com/juniorcl/transaction-fraud-detection)
 
     Financial transactions fraud is one of the biggest problems faced by financial institutions. Thus, this project uses data science and machine learning to detect and avoid fraudulent transactions. The model got a precision of 96.3% +/- 0.7% and a recall of 76.3% +/- 3.5%. The profit expected by the company is R\$ 57,251,574.44.
@@ -64,15 +63,15 @@ The details of each solution are described in the data science project section.
 
 ## Kaggle
 
-*  ### [Digit Recognizer with Le-Net 5 Architecture](https://www.kaggle.com/juniorcl/lenet-5-cnn-architecture-digit-recognizer)
+* ### [Digit Recognizer with Le-Net 5 Architecture](https://www.kaggle.com/juniorcl/lenet-5-cnn-architecture-digit-recognizer)
 
     Notebook which I show the creation of the LeNet-5 CNN for the digits recognizer competition. This architecture got a accuracy of 0.99214.   
 
-*  ### [Digit Recognizer Competition with CNN](https://www.kaggle.com/juniorcl/cnn-digit-recognizer-0-99178-score)
+* ### [Digit Recognizer Competition with CNN](https://www.kaggle.com/juniorcl/cnn-digit-recognizer-0-99178-score)
 
     A Notebook which I demonstrate how I created a Convolution Neural Network (CNN) to recognize digits during the Kaggle competition. The neural network got a accuracy of 0.99178.
 
-*  ### [Diabetes Prediction with Tuned Gradient Boosting Model](https://www.kaggle.com/juniorcl/diabetesclassification-tunedgradientboosting-90)
+* ### [Diabetes Prediction with Tuned Gradient Boosting Model](https://www.kaggle.com/juniorcl/diabetesclassification-tunedgradientboosting-90)
 
     A tutorial on creating a machine learning model to predict whether a person may be diabetic or not.The Gradient Boosting model got a accuracy of 0.893 +/- 0.024. 
 
