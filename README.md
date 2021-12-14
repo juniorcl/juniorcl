@@ -41,6 +41,10 @@ The details of each solution are described in the data science project section.
 
 ## Data Science Projects
 
+* ### [Airbnb Scheduling Forecast](https://github.com/juniorcl/airbnb-scheduling-forecast)
+
+    **Project still under development**. In this data scientist project aim to create a machine learning model to predict the first booking of a user.
+
 * ### [Health Insurance Cross Sell](https://github.com/juniorcl/health-insurance-cross-sell)
 
     To help the sales team, this data science project was created to sort a list to improve the cross-selling. The model was able to organize that almost all interested customers (98.31% +/- 0.16%) stay on up to 50% of the list, saving half of the expenses incurred for calls. So, if each call costs R\$ 15.00 in 20,000.00 there is an expense of R\$ 300,000.00. Using the model it is possible to spend only R\$ 150,000.00.
@@ -60,6 +64,12 @@ The details of each solution are described in the data science project section.
 * ### [Rossman Store Sales](https://github.com/juniorcl/rossman-store-sales)
 
     To ideate a new strategy of investments in for each sale store may be difficult. Therefore, to help the stack holders to make decisions about individual investments for each and every store in the chain, this data science project created a machine learning model able to predict the sales up to six weeks in advance. Hence, enabling them to calculate the profit per store and the amount of money available to invest.
+
+## Data Engineering Projects
+
+* ### [Bookclub Data Storing](https://github.com/juniorcl/bookclub-data-storing)
+
+    **Project still under development**. Data engineering project to collect, process and storage from the website Bookclub.
 
 ## Blog Posts
 
