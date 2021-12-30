@@ -69,7 +69,7 @@ The details of each solution are described in the data science project section.
 
 * ### [Bookclub Data Storing](https://github.com/juniorcl/bookclub-data-storing)
 
-    **Project still under development**. Data engineering project to collect, process and storage from the website Bookclub.
+    The Bookclub doesn't collect the data from its website, however they are updated with each purchase, sale or exchange that takes place on the website. For this purpose, this project aims to collect, transforma and load (ETL) data from the website [books.toscrape](https://books.toscrape.com/) for a SQLite database. The ETL is schenduled using Airflow using a Docker.
 
 ## Blog Posts
 
