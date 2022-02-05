@@ -81,6 +81,7 @@ The details of each solution are described in the data science project section.
 
     The post "Going Beyond Accuracy: Understanding Balanced Accuracy, Precision, Recall and F1 score", title in english, I wrote about metrics to avaliate models of classification. The metrics covered were Balanced Accuracy, Precision, Recall and F1 score. During the post, I talk about how to calculate these metrics and understand them.
 
+<!--
 ## Kaggle
 
 * ### [Digit Recognizer with Le-Net 5 Architecture](https://www.kaggle.com/juniorcl/lenet-5-cnn-architecture-digit-recognizer)
@@ -98,7 +99,7 @@ The details of each solution are described in the data science project section.
 * ### [ENEM Math Score](https://www.kaggle.com/juniorcl/mathenemscores-linearregression-accuracy-90)
 
     A machine learning project to predict the math score from the ENEM (Exame Nacional do Ensino Médio - National High School Exam). The model got a acuracy of 90%.
-
+-->
 <!--
 <div style="display: flex;justify-content: space-around;" align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=juniorcl&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" alt="github stats">
