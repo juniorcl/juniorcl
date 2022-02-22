@@ -43,7 +43,7 @@ The details of each solution are described in the data science project section.
 
 * ### [Airbnb Scheduling Forecast](https://github.com/juniorcl/airbnb-scheduling-forecast)
 
-    **Project still under development**. In this data scientist project aim to create a machine learning model to predict the first booking of a user.
+    To help the booking of the Airbnb this data science project aim to create a machine learning model to predict the first booking of a new user. Unfortunately the database is very desbalanced which difficult the prediction of the model, the best result was 17.48% +/- 0.4% of accuracy. Therefore new approaches guided by the business will be necessary to improve the results.
 
 * ### [Health Insurance Cross Sell](https://github.com/juniorcl/health-insurance-cross-sell)
 
