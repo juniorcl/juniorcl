@@ -31,7 +31,7 @@ Since then, I have studied and, more recently, worked with python, data science 
 
 * **Data Visualization:** Seaborn and Matplotlib.
 
-* **Machine Learning Modeling:** Classification, Regression, Time Series, Neural Network, Convolution Neural Network and Natural Language Processing.
+* **Machine Learning Modeling:** Classification, Regression, Clusterization, Time Series and Neural Network.
 
 * **Machine Learning Deployment:** Flask and Heroku.
 
