@@ -69,13 +69,21 @@ Since then, I have studied and, more recently, worked with python, data science 
 
 ## Blog Posts
 
-* ### [Prevendo Números: Entendendo as métricas R², MAE, MAPE, MSE e RMSE](https://medium.com/data-hackers/prevendo-n%C3%BAmeros-entendendo-m%C3%A9tricas-de-regress%C3%A3o-35545e011e70)
+* ### [Metrics para Regressão: Entendendo as métricas R², MAE, MAPE, MSE e RMSE](https://medium.com/data-hackers/prevendo-n%C3%BAmeros-entendendo-m%C3%A9tricas-de-regress%C3%A3o-35545e011e70)
 
-    In the post "Predicting Numbers: Understanding R², MAE, MAPE, MSE, and RMSE Metrics", title in english, I wrote about metrics for regression models. The selected metrics were R², Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), Mean Squared Error (MSE) and Root Mean Squared Error (RMSE). During this post I explain about the calculation of metrics and how to interpret them.
+    In the post "Metrics for Regression: Understanding R², MAE, MAPE, MSE, and RMSE Metrics", title in english, I wrote about metrics for regression models. The selected metrics were R², Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), Mean Squared Error (MSE) and Root Mean Squared Error (RMSE). During this post I explain about the calculation of metrics and how to interpret them.
 
 * ### [Indo Além da Acurácia: Entendo a Acurácia Balanceada, Precisão, Recall e F1 score](https://medium.com/data-hackers/indo-al%C3%A9m-da-acur%C3%A1cia-entendo-a-acur%C3%A1cia-balanceada-precis%C3%A3o-recall-e-f1-score-c895e55a9753)
 
     The post "Going Beyond Accuracy: Understanding Balanced Accuracy, Precision, Recall and F1 score", title in english, I wrote about metrics to avaliate models of classification. The metrics covered were Balanced Accuracy, Precision, Recall and F1 score. During the post, I talk about how to calculate these metrics and understand them.
+
+* ### [Escolha as suas palavras: uma introdução às expressões regulares e ao seu entendimento.](https://medium.com/datarisk-io/escolha-as-suas-palavras-uma-introdu%C3%A7%C3%A3o-as-express%C3%B5es-regulares-e-ao-seu-entendimento-a6163e1b4f8a)
+
+    The post "Choose Your Words: An introduction to regular expressions and understanding them", title in english, I wrote a introduction about regular expression. Each expression is presented with its functionality within a sentence, along with an example.
+
+* ### [Feature Engineering: Técnicas para lidar com dados faltantes em um projeto de ciência de dados.](https://medium.com/data-hackers/feature-engineering-t%C3%A9cnicas-para-lidar-com-dados-faltantes-em-um-projeto-de-ci%C3%AAncia-de-dados-debdd57eb662)
+
+	The post "Feature Engineering: Techniques for dealing with missing data in a data science project", title in english, I wrote about techniques for dealing with missing data. Each technique presented is explained along with an example with images. Some techniques covered "removal of missing data", "mean or median imputation", "categorical imputation" and "missing value indicator".
 
 <!--
 ## Kaggle
