@@ -83,7 +83,7 @@ Since then, I have studied and, more recently, worked with python, data science 
 
 * ### [Feature Engineering: Técnicas para lidar com dados faltantes em um projeto de ciência de dados.](https://medium.com/data-hackers/feature-engineering-t%C3%A9cnicas-para-lidar-com-dados-faltantes-em-um-projeto-de-ci%C3%AAncia-de-dados-debdd57eb662)
 
-	The post "Feature Engineering: Techniques for dealing with missing data in a data science project", title in english, I wrote about techniques for dealing with missing data. Each technique presented is explained along with an example with images. Some techniques covered "removal of missing data", "mean or median imputation", "categorical imputation" and "missing value indicator".
+    The post "Feature Engineering: Techniques for dealing with missing data in a data science project", title in english, I wrote about techniques for dealing with missing data. Each technique presented is explained along with an example with images. Some techniques covered "removal of missing data", "mean or median imputation", "categorical imputation" and "missing value indicator".
 
 <!--
 ## Kaggle
