@@ -17,9 +17,11 @@
 
 <br>
 
-I'm a physics teacher and a data scientist who loves open source programs and tools. I have master's degree in natural science period during which I developed my research using Python for data analysis and data processing.
+I'm a physics teacher and a data scientist with a passion for technology.
 
-Since then, I have studied and, more recently, worked with python, data science and machine learning algorithms focused in business solutions. For more details about my projects and each solution, they are described in the data science project section.
+I currently develop projects that prioritize solving business problems, from understanding them, analyzing data, to extracting insights and implementing the solution. I also continue to develop myself with improvement and study activities such as a portfolio of data science projects and I also write about the same topic on a blog on [Medium](https://medium.com/@juniorcl). 
+
+For more details about my projects and each solution, they are described in the data science project section.
 
 ### Analytics Tools
 
