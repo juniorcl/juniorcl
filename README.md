@@ -25,17 +25,17 @@ For more details about my projects and each solution, they are described in the 
 
 ### Analytics Tools
 
-* **Data Collection and Storage:** SQL, MySQL and Postgres.
+* **Data Collection and Storage:** MySQL and PostgreSQL.
 
-* **Data Processing and Analytics:** Python, Jupyter and Spyder.
+* **Data Processing and Analytics:** Jupyter Notebook, Pandas, Numpy.
 
-* **Development:** Git, Linux and Docker.
+* **Development:** Python, Git and Clean Code.
 
 * **Data Visualization:** Seaborn and Matplotlib.
 
 * **Machine Learning Modeling:** Classification, Regression, Clusterization, Time Series and Neural Network.
 
-* **Machine Learning Deployment:** Flask and Heroku.
+* **Machine Learning Deployment:** Flask and Docker.
 
 ## Data Science Projects
 
