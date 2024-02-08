@@ -39,6 +39,10 @@ For more details about my projects and each solution, they are described in the 
 
 ## Data Science Projects
 
+* ### [Olist Delivery Forecast](https://github.com/juniorcl/olist-delivery-forecast)
+
+  	Olist is the largest departament store in Brazilian marketplaces. This project aims to develop and implement a model to predict the time in days until the delivery of a given product. **in progress**
+
 * ### [Airbnb Scheduling Forecast](https://github.com/juniorcl/airbnb-scheduling-forecast)
 
 	To help the booking of the Airbnb this data science project aim to create a machine learning model to predict the first booking of a new user. Unfortunately the database is very desbalanced which difficult the prediction of the model, the best result was 17.48% +/- 0.4% of accuracy. Therefore new approaches guided by the business will be necessary to improve the results.
