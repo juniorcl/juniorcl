@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Clébio Júnior
+# 👋 Hi, I'm Clébio Júnior
 
 Data Scientist with over 4 years of experience applying machine learning techniques and data analysis to solve real-world business problems with measurable impact.
 
