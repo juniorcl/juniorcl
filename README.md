@@ -19,11 +19,25 @@ I have hands-on experience with libraries such as scikit-learn, spaCy, pdfplumbe
 - 🖥️ Hands-on experience with **unstructured data extraction** and **interactive dashboards in SAS**  
 - ✍️ I share technical content on [Medium](https://medium.com/@juniorcl)
 
-## 💼 Experiencie
+### 💼 Professional Experience
 
-- **Vert Analytics (2024 - Present)** → Data Scientist working on time series analysis, NLP, and SAS interactive dashboards.  
-- **Datarisk (2022 - 2024)** → Built credit scoring models, sales forecasting, clustering, and customer predictive behavior models.  
-- **Be.X! (2021 - 2022)** → Developed unstructured data extraction, anomaly detection, and logistic delay prediction models.
+  * **Data Scientist | Vert Analytics (Oct/2024 – Present, Remote)**
+
+    * Developed solutions for **unstructured data extraction** (PDFs and images) using *pdfplumber, Tesseract OCR, regex*.
+    * Built **interactive SAS dashboards** for time series analysis and anomaly detection.
+    * Applied **NLP (spaCy)** to analyze social media comments, identifying customer concerns and dissatisfaction patterns.
+
+  * **Data Scientist | Datarisk (Jan/2022 – Aug/2024, Remote)**
+
+    * Built **credit scoring models**, **sales forecasting**, and **customer segmentation** using machine learning and clustering.
+    * Developed predictive models for customer behavior (default risk, plan upgrade likelihood, job instability).
+    * Delivered insights supporting **strategic decision-making** and **risk reduction**.
+
+  * **Data Scientist | Be.X! (Mar/2021 – Jan/2022, Remote)**
+
+    * Processed **structured and unstructured data** using regex and data cleaning techniques.
+    * Implemented **outlier detection** algorithms based on business rules for risk mitigation.
+    * Created ML models for **delivery delay prediction**, improving logistics operations.
 
 ## 📊 GitHub Stats
 
