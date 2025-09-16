@@ -33,7 +33,7 @@ I have hands-on experience with libraries such as scikit-learn, spaCy, pdfplumbe
 * Developed predictive models for customer behavior (default risk, plan upgrade likelihood, job instability).
 * Delivered insights supporting **strategic decision-making** and **risk reduction**.
 
-#### Data Scientist | Be.X! (Mar/2021 – Jan/2022, Remote)**
+#### Data Scientist | Be.X! (Mar/2021 – Jan/2022, Remote)
 
 * Processed **structured and unstructured data** using regex and data cleaning techniques.
 * Implemented **outlier detection** algorithms based on business rules for risk mitigation.
