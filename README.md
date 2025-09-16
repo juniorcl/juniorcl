@@ -6,10 +6,10 @@ Throughout my career, I worked on projects involving the extraction and processi
 
 I have hands-on experience with libraries such as scikit-learn, spaCy, pdfplumber, pytesseract, and pandas, as well as techniques like NLP, clustering, and supervised learning.
 
-#### Resumes
+#### Get my resumes
 
-[![Currículo em Português](https://img.shields.io/badge/Download-CV%20PT--BR-green?style=flat&logo=adobeacrobatreader)](./resume_portuguese.pdf)
-[![Resume in English](https://img.shields.io/badge/Download-Resume%20EN-blue?style=flat&logo=adobeacrobatreader)](./resume_english.pdf)
+[![Currículo em Português](https://img.shields.io/badge/Download-CV%20PT--BR-green?style=flat&logo=adobeacrobatreader)](https://github.com/juniorcl/resume/blob/main/resume_portuguese.pdf)
+[![Resume in English](https://img.shields.io/badge/Download-Resume%20EN-blue?style=flat&logo=adobeacrobatreader)](https://github.com/juniorcl/resume/blob/main/resume_english.pdf)
 
 #### Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clebiojunior/)
