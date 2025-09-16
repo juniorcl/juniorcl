@@ -6,7 +6,7 @@ Throughout my career, I worked on projects involving the extraction and processi
 
 I have hands-on experience with libraries such as scikit-learn, spaCy, pdfplumber, pytesseract, and pandas, as well as techniques like NLP, clustering, and supervised learning.
 
-#### Get my resumes
+#### Get my resume
 
 [![Currículo em Português](https://img.shields.io/badge/Download-CV%20PT--BR-green?style=flat&logo=adobeacrobatreader)](https://github.com/juniorcl/resume/blob/main/resume_portuguese.pdf?raw=true)
 [![Resume in English](https://img.shields.io/badge/Download-Resume%20EN-blue?style=flat&logo=adobeacrobatreader)](https://github.com/juniorcl/resume/blob/main/resume_english.pdf?raw=true)
