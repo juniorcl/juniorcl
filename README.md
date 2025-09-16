@@ -7,10 +7,10 @@ Throughout my career, I worked on projects involving the extraction and processi
 I have hands-on experience with libraries such as scikit-learn, spaCy, pdfplumber, pytesseract, and pandas, as well as techniques like NLP, clustering, and supervised learning.
 
 #### Connect with me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/clebiojunior)
-[![GitHub Pages](https://img.shields.io/badge/Portfólio-000?style=flat&logo=github&logoColor=white)](https://juniorcl.github.io)
-[![Medium](https://img.shields.io/badge/Blog%20no%20Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@juniorcl)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clebiojunior/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://www.medium.com/@juniorcl)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/juniorcl)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:clebiomojunior@gmail.com)](mailto:clebiomojunior@gmail.com)
 
 ## 👨‍💻 About me
 - 🎓 Master's degree in Natural Sciences (UENF) and Bachelor's degree in Physics (IFF)  
