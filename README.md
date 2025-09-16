@@ -19,25 +19,25 @@ I have hands-on experience with libraries such as scikit-learn, spaCy, pdfplumbe
 - 🖥️ Hands-on experience with **unstructured data extraction** and **interactive dashboards in SAS**  
 - ✍️ I share technical content on [Medium](https://medium.com/@juniorcl)
 
-### 💼 Professional Experience
+## 💼 Professional Experience
 
-  * **Data Scientist | Vert Analytics (Oct/2024 – Present, Remote)**
+#### Data Scientist | Vert Analytics (Oct/2024 – Present, Remote)
 
-    * Developed solutions for **unstructured data extraction** (PDFs and images) using *pdfplumber, Tesseract OCR, regex*.
-    * Built **interactive SAS dashboards** for time series analysis and anomaly detection.
-    * Applied **NLP (spaCy)** to analyze social media comments, identifying customer concerns and dissatisfaction patterns.
+* Developed solutions for **unstructured data extraction** (PDFs and images) using *pdfplumber, Tesseract OCR, regex*.
+* Built **interactive SAS dashboards** for time series analysis and anomaly detection.
+* Applied **NLP (spaCy)** to analyze social media comments, identifying customer concerns and dissatisfaction patterns.
 
-  * **Data Scientist | Datarisk (Jan/2022 – Aug/2024, Remote)**
+#### Data Scientist | Datarisk (Jan/2022 – Aug/2024, Remote)
 
-    * Built **credit scoring models**, **sales forecasting**, and **customer segmentation** using machine learning and clustering.
-    * Developed predictive models for customer behavior (default risk, plan upgrade likelihood, job instability).
-    * Delivered insights supporting **strategic decision-making** and **risk reduction**.
+* Built **credit scoring models**, **sales forecasting**, and **customer segmentation** using machine learning and clustering.
+* Developed predictive models for customer behavior (default risk, plan upgrade likelihood, job instability).
+* Delivered insights supporting **strategic decision-making** and **risk reduction**.
 
-  * **Data Scientist | Be.X! (Mar/2021 – Jan/2022, Remote)**
+#### Data Scientist | Be.X! (Mar/2021 – Jan/2022, Remote)**
 
-    * Processed **structured and unstructured data** using regex and data cleaning techniques.
-    * Implemented **outlier detection** algorithms based on business rules for risk mitigation.
-    * Created ML models for **delivery delay prediction**, improving logistics operations.
+* Processed **structured and unstructured data** using regex and data cleaning techniques.
+* Implemented **outlier detection** algorithms based on business rules for risk mitigation.
+* Created ML models for **delivery delay prediction**, improving logistics operations.
 
 ## 📊 GitHub Stats
 
