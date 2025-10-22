@@ -16,7 +16,7 @@ I have hands-on experience with libraries such as scikit-learn, spaCy, pdfplumbe
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://www.medium.com/@juniorcl)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/juniorcl)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:clebiomojunior@gmail.com)](mailto:clebiomojunior@gmail.com)
-[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/juniorcl)
+[![DEV Badge](https://img.shields.io/badge/DEV-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://www.dev.to/juniorcl/)&nbsp;&nbsp;
 
 ## 👨‍💻 About me
 - 🎓 Master's degree in Natural Sciences (UENF) and Bachelor's degree in Physics (IFF)  
