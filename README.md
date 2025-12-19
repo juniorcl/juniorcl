@@ -29,8 +29,8 @@ I have hands-on experience with libraries such as scikit-learn, spaCy, pdfplumbe
 
 #### Data Scientist | Vert Analytics (Oct/2024 – Present, Remote)
 
+* Automated legal opinion defense recommendations using NLP and FAISS.
 * Developed solutions for **unstructured data extraction** (PDFs and images) using *pdfplumber, Tesseract OCR, regex*.
-* Built **interactive SAS dashboards** for time series analysis and anomaly detection.
 * Applied **NLP (spaCy)** to analyze social media comments, identifying customer concerns and dissatisfaction patterns.
 
 #### Data Scientist | Datarisk (Jan/2022 – Aug/2024, Remote)
