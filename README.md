@@ -44,8 +44,3 @@ I have hands-on experience with libraries such as scikit-learn, spaCy, pdfplumbe
 * Processed **structured and unstructured data** using regex and data cleaning techniques.
 * Implemented **outlier detection** algorithms based on business rules for risk mitigation.
 * Created ML models for **delivery delay prediction**, improving logistics operations.
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juniorcl&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorcl&layout=compact&theme=tokyonight)
