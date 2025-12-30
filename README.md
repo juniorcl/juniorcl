@@ -8,8 +8,8 @@ I have hands-on experience with libraries such as scikit-learn, spaCy, pdfplumbe
 
 #### Get my resume
 
-[![Currículo em Português](https://img.shields.io/badge/Download-CV%20PT--BR-green?style=flat&logo=adobeacrobatreader)](https://github.com/juniorcl/resume/blob/main/resume_portuguese.pdf?raw=true)
-[![Resume in English](https://img.shields.io/badge/Download-Resume%20EN-blue?style=flat&logo=adobeacrobatreader)](https://github.com/juniorcl/resume/blob/main/resume_english.pdf?raw=true)
+[![Currículo em Português](https://img.shields.io/badge/Download-CV%20PT--BR-green?style=flat&logo=adobeacrobatreader)](https://github.com/juniorcl/resume/blob/main/Clebio_Junior_Cientista_de_Dados.pdf?raw=true)
+[![Resume in English](https://img.shields.io/badge/Download-Resume%20EN-blue?style=flat&logo=adobeacrobatreader)](https://github.com/juniorcl/resume/blob/main/Clebio_Junior_Data_Scientist.pdf?raw=true)
 
 #### Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clebiojunior/)
