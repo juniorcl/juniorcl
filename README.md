@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Clébio Júnior
 
-Data Scientist with over 4 years of experience applying machine learning techniques and data analysis to solve real-world business problems with measurable impact.
+Data Scientist with 4+ years of experience building **machine learning and NLP solutions in production**, focused on solving real-world business problems in **risk, credit, legal, and customer analytics**.
 
-Throughout my career, I worked on projects involving the extraction and processing of structured and unstructured data, predictive modeling for credit scoring and sales forecasting, anomaly detection, and customer behavior analysis — always with a focus on turning data into actionable insights.
+I specialize in working with **structured and unstructured data**, developing predictive models, extracting insights from text and documents, and translating data into **actionable decisions with measurable business impact**.
 
 I have hands-on experience with libraries such as scikit-learn, spaCy, pdfplumber, pytesseract, and pandas, as well as techniques like NLP, clustering, and supervised learning.
 
@@ -20,9 +20,9 @@ I have hands-on experience with libraries such as scikit-learn, spaCy, pdfplumbe
 
 ## 👨‍💻 About me
 - 🎓 Master's degree in Natural Sciences (UENF) and Bachelor's degree in Physics (IFF)  
-- 📊 Experienced in **predictive modeling, clustering, and NLP**  
+- 📊 Strong background in **predictive modeling, NLP, and customer analytics**
 - 🛠️ Skilled with `Python`, `scikit-learn`, `spaCy`, `pandas`, `pdfplumber`, `pytesseract`  
-- 🖥️ Hands-on experience with **unstructured data extraction** and **interactive dashboards in SAS**  
+- 🗂️ Hands-on experience with **unstructured data extraction** from PDFs and images
 - ✍️ I share technical content on [Medium](https://medium.com/@juniorcl)
 
 ## 💼 Professional Experience
@@ -44,3 +44,11 @@ I have hands-on experience with libraries such as scikit-learn, spaCy, pdfplumbe
 * Processed **structured and unstructured data** using regex and data cleaning techniques.
 * Implemented **outlier detection** algorithms based on business rules for risk mitigation.
 * Created ML models for **delivery delay prediction**, improving logistics operations.
+
+## 📌 Featured Topics & Interests
+
+- Applied Machine Learning in production  
+- Natural Language Processing (NLP)  
+- Unstructured data extraction and analysis  
+- Credit risk and customer behavior modeling  
+- Turning data into actionable business insights  
