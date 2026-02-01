@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Clébio Júnior
 
-Data Scientist with 4+ years of experience building **machine learning and NLP solutions in production**, focused on solving real-world business problems in **risk, credit, legal, and customer analytics**.
+Data Scientist with 5+ years of experience building **machine learning and NLP solutions in production**, focused on solving real-world business problems in **risk, credit, legal, and customer analytics**.
 
 I specialize in working with **structured and unstructured data**, developing predictive models, extracting insights from text and documents, and translating data into **actionable decisions with measurable business impact**.
 
