@@ -29,26 +29,26 @@ I have hands-on experience with libraries such as scikit-learn, spaCy, pdfplumbe
 
 #### Data Scientist | Vert Analytics (Oct/2024 – Present, Remote)
 
-* Automated legal opinion defense recommendations using NLP and FAISS.
-* Developed solutions for **unstructured data extraction** (PDFs and images) using *pdfplumber, Tesseract OCR, regex*.
-* Applied **NLP (spaCy)** to analyze social media comments, identifying customer concerns and dissatisfaction patterns.
+- Developed NLP-based recommendation system using embeddings and FAISS to identify legal defenses, improving decision accuracy and reducing manual research effort  
+- Built automated data extraction pipelines using OCR (Tesseract) and Regex to process unstructured PDF data and enable structured analytics in SAS dashboards  
+- Designed text classification solution using SpaCy to categorize customer complaints, generating actionable insights for product and business strategy
 
 #### Data Scientist | Datarisk (Jan/2022 – Aug/2024, Remote)
 
-* Built **credit scoring models**, **sales forecasting**, and **customer segmentation** using machine learning and clustering.
-* Developed predictive models for customer behavior (default risk, plan upgrade likelihood, job instability).
-* Delivered insights supporting **strategic decision-making** and **risk reduction**.
+- Developed machine learning models for credit scoring, improving risk assessment and supporting optimized credit approval decisions  
+- Built regression-based sales forecasting model with advanced feature engineering to support business planning and demand prediction  
+- Applied clustering techniques for customer segmentation, enabling targeted marketing strategies and improving campaign performance  
 
 #### Data Scientist | Be.X! (Mar/2021 – Jan/2022, Remote)
 
-* Processed **structured and unstructured data** using regex and data cleaning techniques.
-* Implemented **outlier detection** algorithms based on business rules for risk mitigation.
-* Created ML models for **delivery delay prediction**, improving logistics operations.
+- Processed large-scale unstructured text data using Regex for data cleaning and transformation  
+- Implemented rule-based anomaly detection systems to identify operational risks and outliers  
+- Developed predictive model for delivery delay estimation using ranking-based approaches, improving logistics efficiency
 
-## 📌 Featured Topics & Interests
+## 📌 Technical Skills
 
-- Applied Machine Learning in production  
-- Natural Language Processing (NLP)  
-- Unstructured data extraction and analysis  
-- Credit risk and customer behavior modeling  
-- Turning data into actionable business insights  
+**Programming Languages:** Python, SQL  
+**Machine Learning:** Supervised Learning, Unsupervised Learning, Regression, Clustering, Predictive Modeling, Feature Engineering  
+**AI & NLP:** LLM Applications, LangChain, FAISS, Embeddings, SpaCy, OCR (Tesseract), Regex  
+**Data Tools & Libraries:** Pandas, Scikit-learn, PDFPlumber  
+**Version Control:** Git    
