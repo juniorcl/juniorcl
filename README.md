@@ -19,7 +19,7 @@ I have hands-on experience with libraries such as scikit-learn, spaCy, pdfplumbe
 [![DEV Badge](https://img.shields.io/badge/DEV-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://www.dev.to/juniorcl/)&nbsp;&nbsp;
 
 ## 👨‍💻 About me
-- 🎓 Master's degree in Natural Sciences (UENF) and Bachelor's degree in Physics (IFF)  
+- 🎓 Master's degree in Natural Sciences (UENF) 
 - 📊 Strong background in **predictive modeling, NLP, and customer analytics**
 - 🛠️ Skilled with `Python`, `scikit-learn`, `spaCy`, `pandas`, `pdfplumber`, `pytesseract`  
 - 🗂️ Hands-on experience with **unstructured data extraction** from PDFs and images
