@@ -47,8 +47,8 @@ I have hands-on experience with libraries such as scikit-learn, spaCy, pdfplumbe
 
 ## 📌 Technical Skills
 
-**Programming Languages:** Python, SQL  
-**Machine Learning:** Supervised Learning, Unsupervised Learning, Regression, Clustering, Predictive Modeling, Feature Engineering  
-**AI & NLP:** LLM Applications, RAG, FAISS, Embeddings, SpaCy, OCR, Regex  
-**Data Tools & Libraries:** Pandas, Scikit-learn, PDFPlumber, Spacy, PyTesseract, LangChain, LangGraph
-**Version Control:** Git    
+**Programming Languages:** Python, SQL
+- **Machine Learning:** Supervised Learning, Unsupervised Learning, Regression, Clustering, Predictive Modeling, Feature Engineering  
+- **AI & NLP:** LLM Applications, RAG, FAISS, Embeddings, SpaCy, OCR, Regex  
+- **Data Tools & Libraries:** Pandas, Scikit-learn, PDFPlumber, Spacy, PyTesseract, LangChain, LangGraph
+- **Version Control:** Git    
