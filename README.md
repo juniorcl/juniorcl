@@ -21,7 +21,7 @@ I have hands-on experience with libraries such as scikit-learn, spaCy, pdfplumbe
 ## 👨‍💻 About me
 - 🎓 Master's degree in Natural Sciences (UENF) 
 - 📊 Strong background in **predictive modeling, NLP, and customer analytics**
-- 🛠️ Skilled with `Python`, `scikit-learn`, `spaCy`, `pandas`, `NLP`, `OCR`, `RAG`, `LangGraph`, `LangChain` 
+- 🛠️ Skilled with `Python`, `scikit-learn`, `spaCy`, `NumPy`, `pandas`, `NLP`, `OCR`, `RAG`, `LangGraph`, `LangChain` 
 - 🗂️ Hands-on experience with **unstructured data extraction** from PDFs and images
 - ✍️ I share technical content on [Medium](https://medium.com/@juniorcl)
 
@@ -49,6 +49,6 @@ I have hands-on experience with libraries such as scikit-learn, spaCy, pdfplumbe
 
 **Programming Languages:** Python, SQL  
 **Machine Learning:** Supervised Learning, Unsupervised Learning, Regression, Clustering, Predictive Modeling, Feature Engineering  
-**AI & NLP:** LLM Applications, LangChain, FAISS, Embeddings, SpaCy, OCR (Tesseract), Regex  
-**Data Tools & Libraries:** Pandas, Scikit-learn, PDFPlumber  
+**AI & NLP:** LLM Applications, RAG, FAISS, Embeddings, SpaCy, OCR, Regex  
+**Data Tools & Libraries:** Pandas, Scikit-learn, PDFPlumber, Spacy, PyTesseract, LangChain, LangGraph
 **Version Control:** Git    
