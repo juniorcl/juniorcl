@@ -27,7 +27,7 @@ I have hands-on experience with libraries such as scikit-learn, spaCy, pdfplumbe
 
 ## 💼 Professional Experience
 
-#### Data Scientist | Vert Analytics (Oct/2024 – Present, Remote)
+#### Data Scientist | Vert Analytics (Oct/2024 – Sep/2026, Remote)
 
 - Developed NLP-based recommendation system using embeddings and FAISS to identify legal defenses, improving decision accuracy and reducing manual research effort  
 - Built automated data extraction pipelines using OCR (Tesseract) and Regex to process unstructured PDF data and enable structured analytics in SAS dashboards  
